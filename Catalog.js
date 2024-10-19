@@ -195,4 +195,4 @@ const jsonInput = `{
 }`;
 
 // Run the function with the example JSON input
-deducePolynomialCoefficients(JSON,parse(jsonInput));
+deducePolynomialCoefficients(jsonInput);
